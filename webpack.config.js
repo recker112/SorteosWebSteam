@@ -1,0 +1,1 @@
+module.exports = (env, argv) => require(`./webpack.${argv.mode}.config.js`);
