@@ -1,23 +1,23 @@
 {
-  "name": "candelariaweb",
-  "version": "2.0.0",
-  "description": "Página web de la UEP APEP La Candelaria",
-  "main": "build/index.php",
+  "name": "SorteosWebSteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "webpack --watch --mode=development",
     "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recker112/candelariaweb.git"
+    "url": "git+https://github.com/recker112/SorteosWebSteam.git"
   },
   "keywords": [],
-  "author": "Recker",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/recker112/candelariaweb/issues"
+    "url": "https://github.com/recker112/SorteosWebSteam/issues"
   },
-  "homepage": "https://github.com/recker112/candelariaweb#readme",
+  "homepage": "https://github.com/recker112/SorteosWebSteam#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
