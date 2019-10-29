@@ -1,2 +1,2 @@
 # SorteosWebSteam
-*Una web que simula una comunidad.
+Una web que simula una comunidad.
