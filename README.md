@@ -1,2 +1,2 @@
 # SorteosWebSteam
-Una web para realizar sorteos principalmente de steam.
+*Una web que simula una comunidad.
